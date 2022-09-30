@@ -1,0 +1,10 @@
+body{
+    width: 800px;
+    background: #6e0427 url('../images/body_bg.gif');
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    color: #333;
+    margin: 0px auto;
+    margin-top: 50px;
+    padding: 50px;
+}
