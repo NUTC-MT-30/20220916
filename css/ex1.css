@@ -1,10 +1,24 @@
 body{
     width: 800px;
-    background: #6e0427 url('../images/body_bg.gif');
+    background: #6e0427 url('../images/body_bg.gif') repeat-x top;
     font-family: 'Courier New', Courier, monospace;
     font-size: 1em;
     color: #333;
     margin: 0px auto;
     margin-top: 50px;
     padding: 50px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#nav{
+    float: right;
+}
+
+#nav li{
+    display: inline;
+    margin: 0;
+    color: #fff;
 }
