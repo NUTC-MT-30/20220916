@@ -15,10 +15,81 @@ ul{
 
 #nav{
     float: right;
+    padding-top: 30px;
 }
 
 #nav li{
     display: inline;
     margin: 0;
     color: #fff;
+}
+
+.a1{
+    color: #fff;
+}
+
+.a1:hover{
+    color: rgb(245, 125, 125);
+}
+
+.a1:visited{
+    color: black;
+}
+
+header, #MT{
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 800px;
+}
+
+#MC{
+    width: 800px;
+    background: #fff;
+    border: 10px solid #5c0505;
+    margin-top: 10px;
+}
+
+#MC img{
+    width: 100%;
+}
+
+#CT{
+    width: 360px;
+    margin: 20px 0px;
+    padding: 10px;
+    float: right;
+}
+
+#SB{
+    width: 400px;
+    margin: 20px 0px;
+    padding: 10px;
+    float: left;
+}
+
+#PR ul{
+    list-style-type: none;
+
+}
+
+#PR li{
+    margin: 0 10px 20px 0;
+    float: left;
+    border: 5px solid #ddd;
+}
+
+footer{
+    background: #ddd;
+    text-align: center;
+    clear: both;
+    padding: 10px;
+}
+
+#ah1{
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
+#ah2{
+    padding-left: 40px;
 }
